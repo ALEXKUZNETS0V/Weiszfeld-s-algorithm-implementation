@@ -1,1 +1,6 @@
 D:\WeiszfeldAlgorithmGithub\WeiszfeldAlgorithmGithub\bin\Debug\WeiszfeldAlgorithmGithub.exe.config
+D:\WeiszfeldAlgorithmGithub\WeiszfeldAlgorithmGithub\bin\Debug\WeiszfeldAlgorithmGithub.exe
+D:\WeiszfeldAlgorithmGithub\WeiszfeldAlgorithmGithub\bin\Debug\WeiszfeldAlgorithmGithub.pdb
+D:\WeiszfeldAlgorithmGithub\WeiszfeldAlgorithmGithub\obj\Debug\WeiszfeldAlgorithmGithub.csprojResolveAssemblyReference.cache
+D:\WeiszfeldAlgorithmGithub\WeiszfeldAlgorithmGithub\obj\Debug\WeiszfeldAlgorithmGithub.exe
+D:\WeiszfeldAlgorithmGithub\WeiszfeldAlgorithmGithub\obj\Debug\WeiszfeldAlgorithmGithub.pdb
